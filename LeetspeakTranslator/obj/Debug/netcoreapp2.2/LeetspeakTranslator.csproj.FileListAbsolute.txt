@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator/obj/Debug/netcoreapp2.2/LeetspeakTranslator.csprojAssemblyReference.cache
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator/obj/Debug/netcoreapp2.2/LeetspeakTranslator.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator/obj/Debug/netcoreapp2.2/LeetspeakTranslator.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator/obj/Debug/netcoreapp2.2/LeetspeakTranslator.AssemblyInfo.cs
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator/bin/Debug/netcoreapp2.2/LeetspeakTranslator.deps.json
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator/bin/Debug/netcoreapp2.2/LeetspeakTranslator.runtimeconfig.json
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator/bin/Debug/netcoreapp2.2/LeetspeakTranslator.runtimeconfig.dev.json
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator/bin/Debug/netcoreapp2.2/LeetspeakTranslator.dll
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator/bin/Debug/netcoreapp2.2/LeetspeakTranslator.pdb
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator/obj/Debug/netcoreapp2.2/LeetspeakTranslator.dll
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator/obj/Debug/netcoreapp2.2/LeetspeakTranslator.pdb

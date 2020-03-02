@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/obj/Debug/netcoreapp2.2/LeetspeakTranslatorTests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/obj/Debug/netcoreapp2.2/LeetspeakTranslatorTests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/obj/Debug/netcoreapp2.2/LeetspeakTranslatorTests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/obj/Debug/netcoreapp2.2/LeetspeakTranslatorTests.AssemblyInfo.cs
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/bin/Debug/netcoreapp2.2/LeetspeakTranslatorTests.deps.json
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/bin/Debug/netcoreapp2.2/LeetspeakTranslatorTests.runtimeconfig.json
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/bin/Debug/netcoreapp2.2/LeetspeakTranslatorTests.runtimeconfig.dev.json
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/bin/Debug/netcoreapp2.2/LeetspeakTranslatorTests.dll
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/bin/Debug/netcoreapp2.2/LeetspeakTranslatorTests.pdb
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/bin/Debug/netcoreapp2.2/LeetspeakTranslator.dll
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/bin/Debug/netcoreapp2.2/LeetspeakTranslator.pdb
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/obj/Debug/netcoreapp2.2/LeetspeakTranslatorTests.csproj.CopyComplete
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/obj/Debug/netcoreapp2.2/LeetspeakTranslatorTests.dll
+/Users/Guest/Desktop/LeetspeakTranslator.Solution/LeetspeakTranslator.Tests/obj/Debug/netcoreapp2.2/LeetspeakTranslatorTests.pdb
